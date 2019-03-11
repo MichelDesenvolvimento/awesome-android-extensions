@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">awesome-android-extensions</string>
+    <string name="invalid_url_message">URL inválida</string>
+    <string name="ok">Ok</string>
 </resources>
